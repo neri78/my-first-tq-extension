@@ -324,6 +324,24 @@
                  "width":0,
                  "x":570,
                  "y":264
+                }, 
+                {
+                 "gid":11033,
+                 "height":24,
+                 "id":128,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"objectiveName",
+                         "type":"string",
+                         "value":"my_objective"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":24,
+                 "x":166.666666666667,
+                 "y":311.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -371,10 +389,10 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":128,
+ "nextobjectid":129,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.2",
  "tileheight":24,
  "tilesets":[
         {
@@ -401,6 +419,10 @@
         {
          "firstgid":11019,
          "source":"..\/..\/..\/..\/.bundled\/tilesets\/TwilioQuestNPCs.json"
+        }, 
+        {
+         "firstgid":11031,
+         "source":"..\/..\/..\/..\/..\/VSCode\/demos\/tq3\/extensions\/.bundled\/tilesets\/TwilioQuestObjects.json"
         }],
  "tilewidth":24,
  "type":"map",
